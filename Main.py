@@ -1,7 +1,7 @@
 import requests
 #constants
 
-world_filter="illum"
+world_filter="qui"
 
 #HTTP request
 
